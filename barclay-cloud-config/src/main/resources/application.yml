@@ -9,8 +9,6 @@ spring:
         server:
           git:
             uri:  https://gitee.com/barclay100/barclay/
-            username: 735718151@qq.com
-            password: SUNEEE888
             search-paths: spring-cloud-config/*
 
 
