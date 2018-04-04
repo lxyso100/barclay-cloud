@@ -1,0 +1,10 @@
+rootProject.name = 'barclay-cloud'
+include 'barclay-cloud-config'
+include 'barclay-cloud-provider'
+include 'barclay-cloud-consumer'
+include 'barclay-cloud-server'
+include 'barclay-cloud-consul'
+include 'barclay-cloud-hystrix'
+include 'barclay-cloud-feign-api'
+include 'barclay-cloud-zull'
+
